@@ -43,4 +43,7 @@ This repository consists of a total of 4 jupyter notebooks which are as follows 
 
 #### 5. A Power Point presentation consisting of the results in the complete project
 
-#### 6. A report consisting on various definition of terms used in the complete project such as Convolutional Neural Networks, transfer learning, architectural description of MobileNet model as well as final comparison of the performance of all the techniques employed in order to achieve the best working accuracies.
+#### 6. A report consisting on various definition of terms used in the complete project 
+- Convolutional Neural Networks
+- Transfer learning
+- Architectural description of MobileNet model as well as final comparison of the performance of all the techniques employed in order to achieve the best working accuracies.
