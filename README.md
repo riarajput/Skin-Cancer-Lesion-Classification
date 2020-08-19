@@ -1,6 +1,11 @@
 ## Skin-Lesion-Image-Classification-using-CNN-and-Transfer-Learning
 
 #### Dataset chosen : SKIN CANCER MNIST : HAM10000
+
+#### Link to the dataset :
+
+https://www.kaggle.com/kmader/skin-cancer-mnist-ham10000
+
 #### Number of classes present in the dataset :
 
 #### a. Melanocytic Nevi
