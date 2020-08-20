@@ -1,5 +1,7 @@
 ## Skin-Lesion-Image-Classification-using-CNN-and-Transfer-Learning
 
+## Programming language used : Python
+
 #### Dataset chosen : SKIN CANCER MNIST : HAM10000
 
 #### Link to the dataset :
