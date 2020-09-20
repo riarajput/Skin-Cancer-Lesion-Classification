@@ -49,3 +49,5 @@ This repository consists of a total of 4 jupyter notebooks which are as follows 
 - Convolutional Neural Networks
 - Transfer learning
 - Architectural description of MobileNet model as well as final comparison of the performance of all the techniques employed in order to achieve the best working accuracies.
+
+#### Team Mate : Ria Rajput
